@@ -15,6 +15,6 @@ margin: 0;
 padding: 0;
 color: #FFF;
 text-align: center;
-border-botton: 1px solid #444;
-padding-botton: 30px;
+border-bottom: 1px solid #444;
+padding-bottom: 10px;
 `;
